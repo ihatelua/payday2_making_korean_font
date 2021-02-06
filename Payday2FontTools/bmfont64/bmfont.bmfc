@@ -1,0 +1,69 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=나눔스퀘어 Bold
+fontFile=
+charSet=0
+fontSize=-42
+aa=2
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=1
+useClearType=1
+autoFitNumPages=0
+autoFitFontSizeMin=0
+autoFitFontSizeMax=0
+
+# character alignment
+paddingDown=5
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+widthPaddingFactor=0.00
+
+# output file
+outWidth=4096
+outHeight=4096
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=dds
+textureCompression=0
+alphaChnl=0
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+chars=0-126,160-165,167-173,176-180,182-191,198,208,215-216,222-223,230,240,247-248,254,273,294-295,305
+chars=306-307,312,319-322,329-331,338-339,358-359,711,720,728-733,913-929,931-937,945-961,963-969,1025
+chars=1040-1103,1105,8208,8211-8214,8216-8217,8220-8221,8224-8225,8229-8230,8240,8242-8243,8251,8254,8308
+chars=8319,8321-8324,8361,8451,8457,8467,8470,8481-8482,8486,8491,8531-8532,8539-8542,8544-8553,8560-8569
+chars=8592-8601,8658,8660,8704,8706-8707,8711-8712,8715,8719,8721,8730,8733-8734,8736,8743-8748,8750,8756
+chars=8757-8758,8764-8765,8786,8800-8801,8804-8805,8810-8811,8834-8835,8838-8839,8857,8869,8943,8978,9312
+chars=9313-9326,9332-9346,9372-9397,9424-9449,9472-9475,9484-9547,9618,9632-9633,9635-9641,9650-9651,9654
+chars=9655,9660-9661,9664-9665,9670-9673,9675,9678-9681,9733-9734,9742-9743,9756,9758,9792,9794,9824-9825
+chars=9827-9829,9831-9834,9836-9837,12288-12291,12296-12305,12307-12309,12316,12353-12435,12449-12534
+chars=12539,12593-12686,12800-12828,12896-12923,12927,13184-13188,13192-13258,13263-13264,13267,13270
+chars=13272,13275-13277,44032-55203,65281-65374,65504-65507,65509-65510
+
+# imported icon images
